@@ -5,5 +5,4 @@ Welcome to my portfolio!
 I am a Google-certified IT Support and Systems Administration professional, passionate about solving everyday IT problems and improving business operations.  
 
 ## 📂 Portfolio Projects
-- [Project 1: Troubleshooting Guide] (./Project-1-Troubleshooting-Guide/README.md)
-- 
+- [Project 1: Troubleshooting Guide] (.[/Project-1-Troubleshooting-Guide/README.md] (https://github.com/Vicky-boo/Victoria-Joshua-IT-Portfolio/commits/main/Project-1-Troubleshooting-Guide)
